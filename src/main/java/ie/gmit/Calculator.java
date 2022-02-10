@@ -1,5 +1,5 @@
 //This method will add two numbers
-
+//Shane Crotty
 package ie.gmit;
 import java.util.Scanner;
 

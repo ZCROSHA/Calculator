@@ -1,5 +1,5 @@
 //This method will add two numbers
-//Shane 
+//Shane
 package ie.gmit;
 import java.util.Scanner;
 
